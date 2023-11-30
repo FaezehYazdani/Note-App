@@ -1,12 +1,15 @@
 # Note-App
 
+![image](https://github.com/FaezehYazdani/Note-App/assets/25254193/ae6fd387-a416-45dd-90c3-7fb893b294c5)
+
+
 To Run The App on The front end navigate to notes-frontend folder
 run `npm i` 
 
 To Run The App on the back end navigate to basic-api folder
 run `npm i`
 
-For this App to work MongoDB needs to be installed ( [Specifically MongoDB Shell](https://www.mongodb.com/try/download/shell)
+For this App to work MongoDB needs to be installed ( [Specifically MongoDB Shell](https://www.mongodb.com/try/download/shell) )
 Steps to create the Database:
 1) open Terminal
 2) Type mongosh ( pay attention to the port that MongoDB is running on)
