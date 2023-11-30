@@ -19,7 +19,7 @@ Steps to create the Database:
         link: "link"
       }
       `
-  note that the id_ will be generated automatically
+  note that the `id_` will be generated automatically
 5) To add some dummy data in the notes collection 
   `db.notes.insertOne({text:"first note", link:"HTTP://first-note"})`
 
